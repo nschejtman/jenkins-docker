@@ -24,4 +24,4 @@ remote repo.
 3. (Recommendation) create a Jenkins user and do not use the default admin user
 
 ## More details on
-[https://www.jenkins.io/doc/book/installing/docker/]()
+https://www.jenkins.io/doc/book/installing/docker/
